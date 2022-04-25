@@ -1,0 +1,131 @@
+{
+  "rooms": [
+    {
+      "id": 1,
+      "name": "Single room",
+      "beds": 1,
+      "guests": 1,
+      "img": "https://cdn.pixabay.com/photo/2019/08/19/13/58/bed-4416515_960_720.jpg",
+      "price": 120,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
+    },
+    {
+      "id": 2,
+      "name": "Two-person room",
+      "beds": 2,
+      "guests": 2,
+      "img": "https://cdn.pixabay.com/photo/2021/08/27/01/33/bedroom-6577523_960_720.jpg",
+      "price": 220,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
+    },
+    {
+      "id": 3,
+      "name": "Triple room",
+      "beds": 3,
+      "guests": 3,
+      "img": "https://cdn.pixabay.com/photo/2017/01/14/12/48/hotel-1979406_960_720.jpg",
+      "price": 280,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
+    },
+    {
+      "id": 4,
+      "name": "Four-person room",
+      "beds": 4,
+      "guests": 4,
+      "img": "https://cdn.pixabay.com/photo/2015/11/06/11/45/interior-1026452_960_720.jpg",
+      "price": 370,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
+    }
+  ],
+  "treatments": [
+    {
+      "id": 1,
+      "name": "Relaxing massage",
+      "area": "back",
+      "time": 30,
+      "price": 80,
+      "img": "https://img.freepik.com/free-vector/people-enjoys-sauna-steam-room_40816-230.jpg",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
+    },
+    {
+      "id": 2,
+      "name": "Medical massage",
+      "area": "back",
+      "time": 20,
+      "price": 70,
+      "img": "https://img.freepik.com/free-vector/people-enjoys-sauna-steam-room_40816-230.jpg",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
+    },
+    {
+      "id": 3,
+      "name": "Stone massage",
+      "area": "face",
+      "time": 15,
+      "price": 50,
+      "img": "https://img.freepik.com/free-vector/people-enjoys-sauna-steam-room_40816-230.jpg",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
+    },
+    {
+      "id": 4,
+      "name": "Wax pedicure",
+      "area": "legs",
+      "time": 25,
+      "price": 100,
+      "img": "https://img.freepik.com/free-vector/people-enjoys-sauna-steam-room_40816-230.jpg",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
+    },
+    {
+      "id": 5,
+      "name": "Chinese massage",
+      "area": "hands",
+      "time": 45,
+      "price": 150,
+      "img": "https://img.freepik.com/free-vector/people-enjoys-sauna-steam-room_40816-230.jpg",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
+    },
+    {
+      "id": 6,
+      "name": "Dry sauna",
+      "area": "body",
+      "time": 60,
+      "price": 200,
+      "img": "https://img.freepik.com/free-vector/people-enjoys-sauna-steam-room_40816-230.jpg",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
+    },
+    {
+      "id": 7,
+      "name": "Wet sauna",
+      "area": "body",
+      "time": 45,
+      "price": 120,
+      "img": "https://img.freepik.com/free-vector/people-enjoys-sauna-steam-room_40816-230.jpg",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
+    }
+  ],
+  "vouchers": [
+    {
+      "id": 1,
+      "name": "Voucher Relax",
+      "time": 60,
+      "price": 39,
+      "img": "https://freepikpsd.com/file/2019/11/gift-voucher-png-6-Transparent-Images.png",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
+    },
+    {
+      "id": 2,
+      "name": "Voucher Card",
+      "time": 60,
+      "price": 29,
+      "img": "https://freepikpsd.com/file/2019/11/gift-voucher-png-6-Transparent-Images.png",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
+    },
+    {
+      "id": 3,
+      "name": "Voucher Gold Card",
+      "time": 90,
+      "price": 19,
+      "img": "https://freepikpsd.com/file/2019/11/gift-voucher-png-6-Transparent-Images.png",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
+    }
+  ]
+}
