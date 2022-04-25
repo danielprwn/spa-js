@@ -15,6 +15,12 @@ Aplikacja powinna umożliwiać:
 ✅JavaScript, jQuery
 ✅Node, Express
 
+Pobierz repozytorium i uruchom je lokalnie:
+
+`$ npm install`
+
+`$ npm start`
+
 
 ![it spa screen 1](https://user-images.githubusercontent.com/92208474/165051901-b90d8340-8bc5-4574-9f5b-6fa9d5edcda5.png)
 
