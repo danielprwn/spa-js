@@ -2,7 +2,6 @@
 
 Aplikacja Single Page Application JavaScript
 
-Aplikacja powinna umożliwiać: 
 
 ✔ Przeglądanie dostępnych zabiegów
 ✔ Dodawanie wybranych zabiegów do koszyka
