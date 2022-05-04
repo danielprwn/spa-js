@@ -24,5 +24,8 @@ Pobierz repozytorium i uruchom je lokalnie:
 
 ![screen 3](https://user-images.githubusercontent.com/92208474/166626785-28231d80-6fc6-42db-be1b-a80d7a00a6c9.png)
 
+![screen 5](https://user-images.githubusercontent.com/92208474/166626872-d4a30f8d-da7b-43e4-87bb-a61bbaeeda16.png)
+
 ![screen 2](https://user-images.githubusercontent.com/92208474/166626790-e6d5a0f9-045a-43c8-9123-10ed20cf796e.png)
+
 
