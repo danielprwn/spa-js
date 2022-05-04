@@ -20,9 +20,7 @@ Pobierz repozytorium i uruchom je lokalnie:
 
 `$ npm start`
 
+![screen 4](https://user-images.githubusercontent.com/92208474/166626774-43ae5e23-8522-4f11-9024-c52ecc4d1a20.png)
+![screen 3](https://user-images.githubusercontent.com/92208474/166626785-28231d80-6fc6-42db-be1b-a80d7a00a6c9.png)
+![screen 2](https://user-images.githubusercontent.com/92208474/166626790-e6d5a0f9-045a-43c8-9123-10ed20cf796e.png)
 
-![it spa screen 1](https://user-images.githubusercontent.com/92208474/165051901-b90d8340-8bc5-4574-9f5b-6fa9d5edcda5.png)
-
-![it spa screeen 2](https://user-images.githubusercontent.com/92208474/165051912-01a19874-845a-40a4-b25b-fbb35ccee2bf.png)
-
-![it spa screeen 3](https://user-images.githubusercontent.com/92208474/165051917-948f1087-8219-45cc-a271-e5c9ab399aee.png)
