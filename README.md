@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # IT SPA JavaScript
-=======
+
 # Spa project JS
 
 Aplikacja Single Page Application JavaScript
@@ -32,4 +31,4 @@ Pobierz repozytorium i uruchom je lokalnie:
 ![screen 2](https://user-images.githubusercontent.com/92208474/166626790-e6d5a0f9-045a-43c8-9123-10ed20cf796e.png)
 
 
->>>>>>> 9d331c7e64e218b08792b3130c36ef22e5ec7a70
+
