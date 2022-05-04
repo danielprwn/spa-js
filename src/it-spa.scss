@@ -1,36 +1,39 @@
-body {
-  padding: 3rem;
-  background-color: azure;
-  font-weight: 300;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+* {
+  margin: 0;
+  padding: 0.2rem;
+  box-sizing: border-box;
   font-size: medium;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 /*Text*/
 h1 {
-  color: #355777;
+  color: #2b5b88;
   text-align: center;
   font-weight: 700;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+  color: #948b08;
+  text-align: center;
+  font-weight: 800;
 }
 
 h3 {
   color: #355777;
   text-align: center;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 h4 {
-  text-align: left;
+  text-align: center;
   font-weight: 600;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
   color: #be940b;
 }
 
 .home-text {
   color: grey;
   text-align: center;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 img {
@@ -62,21 +65,21 @@ img {
   margin-right: 10px;
   margin-top: 10px;
   margin-bottom: 10px;
-  width: 20%;
+  width: 100%;
 }
 
 .btn-secondary {
   margin-right: 10px;
   margin-top: 10px;
   margin-bottom: 10px;
-  width: 20%;
+  width: 100%;
 }
 
 .btn-success {
   margin-right: 10px;
   margin-top: 10px;
   margin-bottom: 10px;
-  width: 20%;
+  width: 100%;
 }
 
 .btn-warning {
@@ -88,13 +91,12 @@ img {
 }
 
 .text-muted {
+  background-color: rgb(49, 49, 49);
+  width: 100%;
+  margin: 0;
+  padding: 2rem;
+  color: snow;
   text-align: center;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-size: medium;
-  font-weight: 800;
-  color: #b5b5b5;
-  padding: 25px;
-  margin-bottom: 0;
 }
 
 .bg-dark {
@@ -104,18 +106,22 @@ img {
 
 /*Date picker styles*/
 
-.date-pic {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-  color: #068517;
+.datePick {
+  color: #095012;
+  width: 100%;
+  box-shadow: 0 0 2em rgb(186, 186, 186);
+  border-radius: 6px;
   font-weight: 500;
-  margin: 10px auto;
+  padding: 1em;
 }
+
 h1 {
   margin: 30px 0px;
   color: #313131;
   font-size: 42px;
   font-weight: 900;
   text-align: center;
+  font-weight: 600;
 }
 
 h1 span {
@@ -233,8 +239,7 @@ h1 span {
 
 /* css code for button*/
 #main .btn {
-  width: 80px;
-  height: 32px;
+  width: 100%;
   outline: none;
   font-weight: bold;
   border: 0px solid #27a465;
@@ -313,6 +318,7 @@ span.psw {
 }
 
 /* The Modal (background) */
+
 .modal {
   display: none; /* Hidden by default */
   position: fixed; /* Stay in place */
@@ -384,4 +390,53 @@ span.psw {
   .cancelbtn {
     width: 100%;
   }
+}
+
+form {
+  display: grid;
+  grid-template-columns: 8em 1fr;
+  grid-row-gap: 0.25em;
+}
+
+label {
+  font-weight: bold;
+}
+
+label::after {
+  content: ":";
+}
+
+.rate-star {
+  width: 100%;
+  color: snow;
+  font-size: 25px;
+  font-weight: 600;
+  text-align: center;
+  padding: 1rem;
+  margin: 0.8rem;
+}
+
+.header-text {
+  color: #105f1a;
+  font-weight: 600;
+  text-shadow: 2px 1px 2px #2c2c2c;
+}
+
+.nav .btn {
+  float: left;
+  display: flex;
+  overflow: hidden;
+  width: 20%;
+  background-color: rgb(24, 158, 6);
+  padding: 0.3rem;
+  margin: 0.3;
+  color: snow;
+  font-size: 22px;
+  border-radius: 0;
+  text-align: center;
+}
+
+/*Subscribe styles */
+.flex-fill {
+  color: snow;
 }

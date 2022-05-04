@@ -18,9 +18,7 @@ const navigationItems = [
 export function Navigation() {
   const nav = document.createElement("nav");
 
-  nav.style.backgroundColor = "rgb(41, 43, 44)";
-  nav.style.margin = "1em 0";
-  nav.style.fontFamily = "Verdana, Geneva, Tahoma, sans-serif;";
+  nav.classList.add("nav");
 
   const navigationButtons = navigationItems.map((item) => {
     const { component, name } = item;

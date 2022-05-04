@@ -8,7 +8,7 @@ export function Rooms() {
     <p id="loading">Loading rooms... Please wait :)</p>
   `;
 
-  //Zapytanie do bazy danych
+  //Database query
   fetch("http://localhost:3000/rooms")
     .then((response) => response.json())
     .then((rooms) => {

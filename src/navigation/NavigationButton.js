@@ -1,7 +1,7 @@
 export function NavigationButton(Component, text) {
   const button = document.createElement("button");
 
-  button.classList.add("btn", "btn-dark");
+  button.classList.add("btn");
   button.setAttribute("type", "button");
   button.innerText = text;
 

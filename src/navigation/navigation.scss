@@ -1,3 +1,32 @@
 .active-btn {
-  border-bottom: 3px solid rgb(230, 215, 12) !important;
+  border-bottom: 6px solid rgb(243, 230, 52) !important;
+}
+
+.nav .btn {
+  display: block;
+  float: left;
+  overflow: hidden;
+  background-color: rgb(49, 49, 49);
+  padding: 0.4rem;
+  margin: 0;
+  color: snow;
+  font-size: 22px;
+  border-radius: 0;
+  text-align: center;
+}
+
+@media screen and (max-width: 1100px) {
+  .nav .btn {
+    float: left;
+    display: block;
+    overflow: hidden;
+    width: 100%;
+    background-color: rgb(49, 49, 49);
+    padding: 0.4rem;
+    margin: 0;
+    color: snow;
+    font-size: 22px;
+    border-radius: 0;
+    text-align: center;
+  }
 }
